@@ -1,6 +1,6 @@
 # DBFlow Labs
 
-**Model-first workflows for Laravel and Filament.**
+**Model-first approval workflow engine for Laravel & Filament.**
 
 DBFlow Labs is an engineering-first organization building approval workflow infrastructure for the modern Laravel ecosystem — instances, tasks, reject strategies, and audit logs attached to Eloquent models, without a heavyweight BPM platform.
 
